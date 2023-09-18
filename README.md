@@ -4,7 +4,9 @@
 
 This project revolves around training DRL agents to solve Unity environments that present continuous action spaces. We choose to adopt Proximal Policy Optimization (PPO) algorithm because of its efficiency and stability during training compared to other policy gradient methods, the implementation aims to solve the "Reacher" environment. The repository provides the necessary code for training and evaluation. We also addded the artifacts generated during training (weights).
 
-https://github.com/naoufal51/ContinuousControlProject/assets/15954923/129aa305-1186-4d3e-9a03-c2fdd8c132cb
+
+https://github.com/naoufal51/ContinuousControlProject/assets/15954923/fcbab766-8c22-4586-9630-32f9fe965c5c
+
 
 
 <!-- !["Reacher"](images/reacher.gif) -->
