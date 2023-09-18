@@ -86,5 +86,7 @@ This project draws inspiration from :
 2. [stable-baselines3](https://stable-baselines3.readthedocs.io/en/master/)
 
 ### License
-The content and implementations of this repository are shielded by the [MIT License](<link_to_license>).
+You can freely use the code present in the repo.
+
+For modules provided by Udacity DRLND check their repo [DRLND](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
